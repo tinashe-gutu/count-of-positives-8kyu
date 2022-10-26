@@ -8,4 +8,4 @@ function countSum(numArr){
 }
 
 
-export default countSum;
+module.exports=countSum

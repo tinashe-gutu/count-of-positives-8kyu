@@ -1,4 +1,4 @@
-import {countSum} from "./count-of-positives";
+const countSum = require('./count-of-positives')
 
 test('counts postive nums add negative nums', ()=>{
     expect(countSum([1,2,3,-1,-2,-3])).toBe([3,-6])
