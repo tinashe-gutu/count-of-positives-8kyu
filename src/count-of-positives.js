@@ -6,3 +6,6 @@
 function countSum(numArr){
    
 }
+
+
+export default countSum;
