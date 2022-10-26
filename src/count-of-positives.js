@@ -4,7 +4,8 @@
  * @returns {number[]} tupple of count and sum
  */
 function countSum(numArr){
-   
+   let count = 0;
+   let sum = 0;
 }
 
 
